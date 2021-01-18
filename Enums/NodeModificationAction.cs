@@ -1,0 +1,7 @@
+public enum NodeModificationAction {
+    DELETE, 
+    CHANGE_FOR_SEQUENCE_NODE,
+    CHANGE_FOR_SELECTOR_NODE,
+    ADD_SELECTOR_AS_CHILD,
+    ADD_SEQUENCE_AS_CHILD,
+}
